@@ -102,6 +102,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ccffffff', e
 	max-width: 300px;
 }
 
+#form {
+	width: 100%;
+}
 
 
 
